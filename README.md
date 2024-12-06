@@ -1,4 +1,4 @@
-## Why you watching? 👋
+## Why you are watching? 👋
 
 <!--
 **AkinoF/AkinoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
